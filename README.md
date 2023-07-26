@@ -1,2 +1,3 @@
 # penggalian-data
-Arsip Tugas MK Penggalian Data
+Arsip Tugas Mata Kuliah Penggalian Data
+*Archive of Data Mining Course Assignments*
